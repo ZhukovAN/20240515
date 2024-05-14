@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "c63647e27549c4fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ef240a5506eea23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "853cac0c664b0d09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a5cdeaac32c5280",
+    "type": "split",
+    "children": [
+      {
+        "id": "587a50eff0f20de5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fc89323dd00fd40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "566b4325250e30cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "086eb0c520dddd82",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f554db03d3717c71",
+    "type": "split",
+    "children": [
+      {
+        "id": "04156a6978b5c657",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71ecf312be6dcfe4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f32cbd1a8e4df460",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c738be06340e111f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e98d6e809e5fb90c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7fc89323dd00fd40",
+  "lastOpenFiles": [
+    "Развертывание компонентов второй очереди.md",
+    "Deployment/Jenkins/Nginx reverse proxy.md",
+    "Deployment/Jenkins/Jenkins.md",
+    "Deployment/Gogs/Nginx reverse proxy.md",
+    "Deployment/Jenkins",
+    "README.md",
+    "Развертывание компонентов первой очереди.md",
+    "Deployment/VAmPI.md",
+    "Deployment/Bind.md",
+    "Deployment/OWASP Bricks.md",
+    "Deployment/Gogs/Nginx reverse proxy.md",
+    "Deployment/Gogs",
+    "Deployment/Docker",
+    "Deployment",
+    "Misc",
+    "Deployment/Gogs/Gogs.md",
+    "Подготовка к развертыванию.md",
+    "Deployment/NGINX.md",
+    "Deployment/Portainer.md",
+    "Deployment/Обновление Portainer.md",
+    "Images/Pasted image 20240315150433.png",
+    "Images/Pasted image 20240314183822.png",
+    "Images/Pasted image 20240314183514.png",
+    "Images/Pasted image 20240314183154.png",
+    "Images/Pasted image 20240314182616.png",
+    "Images/Pasted image 20240314182609.png",
+    "Images/Pasted image 20240314182335.png",
+    "Images/Pasted image 20240314174635.png",
+    "Images/Pasted image 20240314171607.png",
+    "Images/Pasted image 20240314171513.png",
+    "Images",
+    "Deployment/Создание подсети Docker.md",
+    "Deployment/Развертывание Docker под Debian 11.md",
+    "Deployment/Развертывание предыдущих версий Docker под Debian 11.md"
+  ]
+}
