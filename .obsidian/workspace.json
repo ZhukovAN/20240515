@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Развертывание компонентов первой очереди.md",
+                "file": "Развертывание компонентов второй очереди.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Развертывание компонентов первой очереди.md",
+                "file": "Развертывание компонентов второй очереди.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Развертывание компонентов первой очереди.md",
+                "file": "Развертывание компонентов второй очереди.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Развертывание компонентов первой очереди.md"
+                "file": "Развертывание компонентов второй очереди.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "853cac0c664b0d09",
   "lastOpenFiles": [
-    "Deployment/Gogs/Gogs.md",
     "Развертывание компонентов первой очереди.md",
-    "README.md",
     "Подготовка к развертыванию.md",
+    "README.md",
+    "Deployment/Gogs/Gogs.md",
     "Развертывание компонентов второй очереди.md",
     "Подготовка.md",
     "Deployment/Jenkins/Nginx reverse proxy.md",
