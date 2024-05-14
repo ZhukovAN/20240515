@@ -14,4 +14,4 @@ docker run --detach \
   --volume portainer-data:/data \
   portainer/portainer-ce:latest
 ```
-При необходимости можно [[Обновление Portainer|обновить]] Portainer до последней версии, при этом все настройки будут сохранены.
+При необходимости можно [обновить](Обновление%20Portainer.md) Portainer до последней версии, при этом все настройки будут сохранены.
