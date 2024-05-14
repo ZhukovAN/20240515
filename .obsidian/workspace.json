@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Развертывание компонентов первой очереди.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Развертывание компонентов первой очереди.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Развертывание компонентов первой очереди.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Развертывание компонентов первой очереди.md"
               }
             }
           }
@@ -146,15 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fc89323dd00fd40",
+  "active": "853cac0c664b0d09",
   "lastOpenFiles": [
+    "Deployment/Gogs/Gogs.md",
+    "Развертывание компонентов первой очереди.md",
+    "README.md",
+    "Подготовка к развертыванию.md",
     "Развертывание компонентов второй очереди.md",
+    "Подготовка.md",
     "Deployment/Jenkins/Nginx reverse proxy.md",
     "Deployment/Jenkins/Jenkins.md",
     "Deployment/Gogs/Nginx reverse proxy.md",
     "Deployment/Jenkins",
-    "README.md",
-    "Развертывание компонентов первой очереди.md",
     "Deployment/VAmPI.md",
     "Deployment/Bind.md",
     "Deployment/OWASP Bricks.md",
@@ -163,8 +166,6 @@
     "Deployment/Docker",
     "Deployment",
     "Misc",
-    "Deployment/Gogs/Gogs.md",
-    "Подготовка к развертыванию.md",
     "Deployment/NGINX.md",
     "Deployment/Portainer.md",
     "Deployment/Обновление Portainer.md",
